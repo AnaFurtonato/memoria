@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Harry P;
+    src: url(../fonts/HARRYP__.TTF);
+    font-weight: normal;
+    font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1{
+    font-family: 'Harry P', Times, serif;
+    font-size: 10em;
+    font-weight: normal;
+}
+
+P{
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}
